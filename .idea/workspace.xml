@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34b24100-304d-4146-8b62-08acbd47925b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercice 1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice 1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice 1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice 1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice 1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice 1/TP2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice 1/src/EntierNaturel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice 1/src/NombreNegatifException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercice 2/Exercice 2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercice 2/Exercice 2/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +23,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "saadBr"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/saadBr/POO_TP2.git",
+    "accountId": "30e5ae99-7c27-4e2f-b5dc-2a979e4d09a6"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -47,6 +55,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/saade/TP2/Exercice 2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -55,11 +64,13 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\saade\TP2\" />
       <recent name="C:\Users\saade\TP2\Exercice 1" />
     </key>
   </component>
@@ -95,10 +106,22 @@
       <updated>1735487327270</updated>
       <workItem from="1735487328430" duration="1232000" />
       <workItem from="1736024062585" duration="1154000" />
+      <workItem from="1736026722325" duration="757000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
